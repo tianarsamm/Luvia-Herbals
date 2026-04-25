@@ -16,8 +16,8 @@ export const metadata: Metadata = {
   title: "Luvia Herbals",
   description: "Harmoni Alam untuk Jiwa yang Tenang",
   icons: {
-  icon: "/logos/LUVIAA.png",
-  shortcut: "/logos/LUVIAA.png",
+  icon: "/logos/LUVIA.png",
+  shortcut: "/logos/LUVIA.png",
 },
 };
 
