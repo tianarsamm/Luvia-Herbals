@@ -48,7 +48,7 @@ const productsData: ProductDetail[] = [
     tag: "Best Seller",
     tagColor: "#5c7a4a",
     accentColor: "#d4a84b",
-    image: "/images/1.JPEG",
+    image: "/images/1.jpeg",
     benefits: [
       "Membantu relaksasi tubuh & pikiran",
       "Mengurangi stres ringan & overthinking",
@@ -65,7 +65,7 @@ const productsData: ProductDetail[] = [
     tag: "Top Pick",
     tagColor: "#7a5c9a",
     accentColor: "#b89fd4",
-    image: "/images/2.JPEG",
+    image: "/images/2.jpeg",
     benefits: [
       "Membantu mengatasi insomnia ringan",
       "Menenangkan sistem saraf",
@@ -82,7 +82,7 @@ const productsData: ProductDetail[] = [
     tag: "New",
     tagColor: "#c0622a",
     accentColor: "#e8a87c",
-    image: "/images/3.JPEG",
+    image: "/images/3.jpeg",
     benefits: [
       "Mengurangi stres & kecemasan",
       "Membantu menenangkan emosi",
@@ -99,7 +99,7 @@ const productsData: ProductDetail[] = [
     tag: "Wellness",
     tagColor: "#3a7a6a",
     accentColor: "#7ec8b8",
-    image: "/images/4.JPEG",
+    image: "/images/4.jpeg",
     benefits: [
       "Melancarkan pencernaan",
       "Mengurangi kembung & begah",

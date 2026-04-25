@@ -64,7 +64,7 @@ const products: ProductCard[] = [
     tagColor: "#5c7a4a",
     accentColor: "#d4a84b",
     benefits: ["Relaksasi tubuh & pikiran", "Mengurangi stres & overthinking", "Tidur lebih nyenyak"],
-    image: "/images/1.JPEG",
+    image: "/images/1.jpeg",
   },
   {
     id: "sleep-lavender",
@@ -75,7 +75,7 @@ const products: ProductCard[] = [
     tagColor: "#7a5c9a",
     accentColor: "#b89fd4",
     benefits: ["Mengatasi insomnia ringan", "Menenangkan sistem saraf", "Tidur lebih cepat & berkualitas"],
-    image: "/images/2.JPEG",
+    image: "/images/2.jpeg",
   },
   {
     id: "stress-relief",
@@ -86,7 +86,7 @@ const products: ProductCard[] = [
     tagColor: "#c0622a",
     accentColor: "#e8a87c",
     benefits: ["Mengurangi stres & kecemasan", "Menenangkan emosi", "Meningkatkan mood & fokus"],
-    image: "/images/3.JPEG",
+    image: "/images/3.jpeg",
   },
   {
     id: "digest-detox",
@@ -97,7 +97,7 @@ const products: ProductCard[] = [
     tagColor: "#3a7a6a",
     accentColor: "#7ec8b8",
     benefits: ["Melancarkan pencernaan", "Mengurangi kembung & begah", "Detoks alami tubuh"],
-    image: "/images/4.JPEG",
+    image: "/images/4.jpeg",
   },
 ];
 
